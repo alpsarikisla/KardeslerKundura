@@ -1,0 +1,7 @@
+C:\Users\303\Documents\GitHub\IttirgecliGoturgec\KardeslerKundura\KardeslerKundura\bin\Debug\KardeslerKundura.exe.config
+C:\Users\303\Documents\GitHub\IttirgecliGoturgec\KardeslerKundura\KardeslerKundura\bin\Debug\KardeslerKundura.exe
+C:\Users\303\Documents\GitHub\IttirgecliGoturgec\KardeslerKundura\KardeslerKundura\bin\Debug\KardeslerKundura.pdb
+C:\Users\303\Documents\GitHub\IttirgecliGoturgec\KardeslerKundura\KardeslerKundura\obj\Debug\KardeslerKundura.csproj.AssemblyReference.cache
+C:\Users\303\Documents\GitHub\IttirgecliGoturgec\KardeslerKundura\KardeslerKundura\obj\Debug\KardeslerKundura.csproj.CoreCompileInputs.cache
+C:\Users\303\Documents\GitHub\IttirgecliGoturgec\KardeslerKundura\KardeslerKundura\obj\Debug\KardeslerKundura.exe
+C:\Users\303\Documents\GitHub\IttirgecliGoturgec\KardeslerKundura\KardeslerKundura\obj\Debug\KardeslerKundura.pdb
