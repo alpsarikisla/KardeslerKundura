@@ -34,7 +34,7 @@ namespace KardeslerKundura
             #endregion
 
             string islem = "";
-            Console.WriteLine("Merhaba Kardeşler Kundura Shop'a Hoş Geldiniz");
+            Console.WriteLine("Merhaba Kardeşler Kundura Shop'a Hoş Geldiniz Ben Murtaza");
             
 
             string secenek = "e";
